@@ -17,12 +17,12 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 | easy_semantic | .zip |3 / 3 | 20 |
 | medium_instance | ,zip | 3 / 3 | 32 |
 | hard_panoptic | .zip | 2 / 2 | 30 |
-| cp1_holes | … | 0 / 1 | 3 |
-| cp2_slice | … | 0 / 1 | 3 |
-| cp5_occlusion | 0 | … / 1 | 3 |
-| cp3_thin | … | 0 / 1 | 3 |
-| cp4_curb | … | 0 / 1 | 3 |
-| cp6_coverage | … | 0 / 1 | 3 |
+| cp1_holes | .zip | 1 / 1 | 3 |
+| cp2_slice | .zip | 1 / 1 | 3 |
+| cp5_occlusion | .zip | 1 / 1 | 3 |
+| cp3_thin | .zip | 1 / 1 | 3 |
+| cp4_curb | .zip | 1 / 1 | 3 |
+| cp6_coverage | .zip | 1 / 1 | 3 |
 | **Tổng tối đa** | | | **100** |
 
 Nếu export lỗi, ghi task, dữ liệu đã Save đến đâu và lỗi đã báo coach.
